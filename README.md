@@ -16,9 +16,7 @@
 
 Do not forget to add those lines inside your `<head></head>` if you want to support IE8:
 
-		<!--[if lt IE 9]>
-		    <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js" type="text/javascript"></script>
-		<![endif]-->
+		IE goes to HELL !!!
 
 ## Install
 
